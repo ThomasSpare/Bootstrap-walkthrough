@@ -10,6 +10,10 @@
     background-color: #375dad;   
 }
 
+.bg-color-three-reasons-section-column {
+    background-color: #FFF;
+}
+
 .ui-menu-color-home{
     background-color: #157732;
 }
@@ -26,7 +30,22 @@
     background-color: #586fd3;
 }
 
+.row-table {
+    display: table;
+}
 
+.section-column {
+    display: table-cell;
+    padding: 0 30px 30px;
+    float: none;
+}
+
+.section-heading {
+    font-family: "Prompt", sans-serif;
+    font-weight: 300;
+    margin-top: 25px;
+    margin-bottom: 40px;
+}
 /*-------------------------------------------Heading */
 
 header{
